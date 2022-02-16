@@ -1,13 +1,13 @@
 Ejecutar en la terminal: ``python -m venv env``
 
-![image](.../images/venv.png)
+![image](https://github.com/ErickMoralesB/KatasIntroPython/blob/main/images/venv.png)
 
-![image](.../images/activate.png)
+![image](https://github.com/ErickMoralesB/KatasIntroPython/blob/main/images/activate.png)
 
-![image](.../images/freeze.png)
+![image](https://github.com/ErickMoralesB/KatasIntroPython/blob/main/images/freeze.png)
 
-![image](.../images/install.png)
+![image](https://github.com/ErickMoralesB/KatasIntroPython/blob/main/images/install.png)
 
-![image](.../images/freeze2)
+![image](https://github.com/ErickMoralesB/KatasIntroPython/blob/main/images/freeze2.png)
 
-![image](.../images/deactivate.png)
+![image](https://github.com/ErickMoralesB/KatasIntroPython/blob/main/images/deactivate.png)
